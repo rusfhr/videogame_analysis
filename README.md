@@ -1,1 +1,4 @@
-# videogame_analysis
+# Videogame Analysis
+
+## 목적
+-> 
