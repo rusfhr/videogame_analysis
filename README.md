@@ -25,8 +25,8 @@
 <br>
 <br>
 
-### - All_Sales = 1위 Action , 2위 Sports , 3위 Shooter
-### - NA_Sales = 1위 Action , 2위 Sports , 3위 Shooter
-### - EU_Sales = 1위 Action , 2위 Sports , 3위 Shooter
-### - JP_Sales = 1위 Role_Playing , 2위 Action , 3위 Sports
-### - Other_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+- All_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+- NA_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+- EU_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+- JP_Sales = 1위 Role_Playing , 2위 Action , 3위 Sports
+- Other_Sales = 1위 Action , 2위 Sports , 3위 Shooter
