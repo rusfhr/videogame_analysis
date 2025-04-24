@@ -17,5 +17,16 @@
 - 연도별 게임 판매량 (게임 구매에 사용하는 금액 확인)<br>
 - 역대 가장 많이 판매된 게임 확인 (장르, 플랫폼)<br>
 
+<br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/70d5bf9a-3a5c-4fe8-9dda-0cd7db5dca4c)
+
+<br>
+<br>
+
+### - All_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+### - NA_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+### - EU_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+### - JP_Sales = 1위 Role_Playing , 2위 Action , 3위 Sports
+### - Other_Sales = 1위 Action , 2위 Sports , 3위 Shooter
