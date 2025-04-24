@@ -20,7 +20,18 @@
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/70d5bf9a-3a5c-4fe8-9dda-0cd7db5dca4c)
+### 전세계, 유럽, 일본, 북미, 기타 지역 판매량 시각화
+<br>
+
+![image](https://github.com/user-attachments/assets/d36c4c95-8c29-4b75-958e-901d785e616c)
+
+![image](https://github.com/user-attachments/assets/590088e8-7460-44d4-8081-1838d860befa)
+
+![image](https://github.com/user-attachments/assets/dfc9b91d-03b5-44e1-bfdc-4158ba7e6ba6)
+
+![image](https://github.com/user-attachments/assets/388bba8b-8962-4222-bd5a-2abab8ba3a53)
+
+![image](https://github.com/user-attachments/assets/fc96c231-45eb-4262-bcda-59d11e5ab276)
 
 <br>
 <br>
@@ -30,3 +41,4 @@
 - EU_Sales = 1위 Action , 2위 Sports , 3위 Shooter
 - JP_Sales = 1위 Role_Playing , 2위 Action , 3위 Sports
 - Other_Sales = 1위 Action , 2위 Sports , 3위 Shooter
+
